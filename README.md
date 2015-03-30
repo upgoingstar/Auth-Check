@@ -3,4 +3,4 @@ Checks from a list of URLs, if they are accessible without login or not. Allows 
 
 You can also specify the website name (use -t or --target) and pass the complete directory listing for the same.
 
-Use -o for nameing your own output file.
+Use -o for naming your own output file.
